@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/onecent/static/css/main.1e3df62d.css",
+    "main.js": "/onecent/static/js/main.edf26a95.js",
+    "static/js/453.616bd6f3.chunk.js": "/onecent/static/js/453.616bd6f3.chunk.js",
+    "index.html": "/onecent/index.html",
+    "main.1e3df62d.css.map": "/onecent/static/css/main.1e3df62d.css.map",
+    "main.edf26a95.js.map": "/onecent/static/js/main.edf26a95.js.map",
+    "453.616bd6f3.chunk.js.map": "/onecent/static/js/453.616bd6f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e3df62d.css",
+    "static/js/main.edf26a95.js"
+  ]
+}
